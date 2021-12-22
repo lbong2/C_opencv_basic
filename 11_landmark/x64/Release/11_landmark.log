@@ -1,0 +1,246 @@
+﻿  소스.cpp
+C:\source\repos\3-2_OpenCV\11_landmark\include\modelcfg.h(10,1339): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\modelcfg.h(75,121): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\helper.h(104,25): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\helper.h(105,25): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\helper.h(142,25): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\helper.h(143,25): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\helper.h(144,19): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\helper.h(156,177): warning C4244: '인수': 'float'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+C:\source\repos\3-2_OpenCV\11_landmark\include\helper.h(156,160): warning C4244: '인수': 'float'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+C:\source\repos\3-2_OpenCV\11_landmark\include\helper.h(156,148): warning C4244: '인수': 'float'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+C:\source\repos\3-2_OpenCV\11_landmark\include\helper.h(156,81): warning C4244: '인수': 'float'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+C:\source\repos\3-2_OpenCV\11_landmark\include\helper.h(199,42): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\hog.c(289,21): warning C4244: '초기화 중': 'double'에서 'vl_index'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\hog.c(303,21): warning C4244: '초기화 중': 'double'에서 'vl_index'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\hog.c(648,38): warning C4244: '/=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\hog.c(649,38): warning C4244: '/=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\hog.c(678,30): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\hog.c(679,40): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\hog.c(699,35): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\hog.c(700,35): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\hog.c(705,19): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\hog.c(706,19): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\hog.c(786,29): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\hog.c(816,35): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\hog.c(817,35): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\hog.c(822,19): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\hog.c(823,19): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\hog.c(1032,24): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\hog.c(1033,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\hog.c(1034,66): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\hog.c(1038,24): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\hog.c(1039,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\hog.c(1040,66): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\hog.c(1041,66): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\hog.c(1051,42): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\hog.c(1052,42): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\hog.c(1053,42): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\hog.c(1054,42): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\feature_descriptor.h(57,14): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\feature_descriptor.h(58,14): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\feature_descriptor.h(59,14): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\feature_descriptor.h(60,14): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\feature_descriptor.h(62,26): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\ldmarkmodel.cpp(123,78): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\ldmarkmodel.cpp(127,70): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\ldmarkmodel.cpp(153,98): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\ldmarkmodel.cpp(170,31): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\ldmarkmodel.cpp(196,41): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\ldmarkmodel.cpp(217,77): warning C4244: '=': 'int'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+C:\source\repos\3-2_OpenCV\11_landmark\include\ldmarkmodel.cpp(253,18): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\ldmarkmodel.cpp(254,18): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\ldmarkmodel.cpp(255,18): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\ldmarkmodel.cpp(256,18): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\ldmarkmodel.cpp(273,142): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\ldmarkmodel.cpp(288,26): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\ldmarkmodel.cpp(289,26): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\ldmarkmodel.cpp(290,26): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\ldmarkmodel.cpp(291,26): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\ldmarkmodel.cpp(301,26): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\ldmarkmodel.cpp(302,26): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\ldmarkmodel.cpp(303,26): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\ldmarkmodel.cpp(304,26): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\ldmarkmodel.cpp(315,22): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\ldmarkmodel.cpp(316,22): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\ldmarkmodel.cpp(317,22): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\ldmarkmodel.cpp(318,22): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\ldmarkmodel.cpp(359,15): warning C4244: '초기화 중': '_Tp'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+C:\source\repos\3-2_OpenCV\11_landmark\include\ldmarkmodel.cpp(360,15): warning C4244: '초기화 중': '_Tp'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+C:\source\repos\3-2_OpenCV\11_landmark\include\ldmarkmodel.cpp(371,22): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\ldmarkmodel.cpp(372,22): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\ldmarkmodel.cpp(373,22): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\ldmarkmodel.cpp(374,22): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\ldmarkmodel.cpp(383,19): warning C4244: '초기화 중': '_Tp'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+C:\source\repos\3-2_OpenCV\11_landmark\include\ldmarkmodel.cpp(384,19): warning C4244: '초기화 중': '_Tp'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+C:\source\repos\3-2_OpenCV\11_landmark\include\ldmarkmodel.cpp(449,22): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\ldmarkmodel.cpp(450,22): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\ldmarkmodel.cpp(451,22): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\ldmarkmodel.cpp(452,22): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\ldmarkmodel.cpp(504,63): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\ldmarkmodel.cpp(507,55): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\ldmarkmodel.cpp(663,46): warning C4244: '인수': '_Tp'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\source\repos\3-2_OpenCV\11_landmark\include\ldmarkmodel.cpp(663,29): warning C4244: '인수': '_Tp'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\source\repos\3-2_OpenCV\11_landmark\include\ldmarkmodel.cpp(665,57): warning C4244: '인수': '_Tp'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\source\repos\3-2_OpenCV\11_landmark\include\ldmarkmodel.cpp(665,40): warning C4244: '인수': '_Tp'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\source\repos\3-2_OpenCV\11_landmark\include\ldmarkmodel.cpp(666,57): warning C4244: '인수': '_Tp'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\source\repos\3-2_OpenCV\11_landmark\include\ldmarkmodel.cpp(666,40): warning C4244: '인수': '_Tp'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\source\repos\3-2_OpenCV\11_landmark\include\ldmarkmodel.cpp(667,57): warning C4244: '인수': '_Tp'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\source\repos\3-2_OpenCV\11_landmark\include\ldmarkmodel.cpp(667,40): warning C4244: '인수': '_Tp'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\source\repos\3-2_OpenCV\11_landmark\include\ldmarkmodel.cpp(681,47): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\ldmarkmodel.cpp(685,47): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\ldmarkmodel.cpp(689,47): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\ldmarkmodel.cpp(695,48): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\ldmarkmodel.cpp(699,48): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\include\ldmarkmodel.cpp(703,48): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\소스.cpp(34,58): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\소스.cpp(35,58): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\소스.cpp(50,40): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\11_landmark\소스.cpp(105,19): warning C4244: '초기화 중': '_Tp'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+C:\source\repos\3-2_OpenCV\11_landmark\소스.cpp(106,19): warning C4244: '초기화 중': '_Tp'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+C:\source\repos\3-2_OpenCV\11_landmark\소스.cpp(120,19): warning C4244: '초기화 중': '_Tp'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+C:\source\repos\3-2_OpenCV\11_landmark\소스.cpp(121,19): warning C4244: '초기화 중': '_Tp'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+C:\source\repos\3-2_OpenCV\11_landmark\include\helper.h(50,54): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+C:\source\repos\3-2_OpenCV\11_landmark\include\ldmarkmodel.cpp(221): message : 컴파일되는 함수 템플릿 인스턴스화 'cv::Rect_<int> get_enclosing_bbox<int>(cv::Mat)'에 대한 참조를 확인하세요.
+C:\source\repos\3-2_OpenCV\11_landmark\include\helper.h(50,47): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+C:\source\repos\3-2_OpenCV\11_landmark\include\helper.h(50,36): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+C:\source\repos\3-2_OpenCV\11_landmark\include\helper.h(50,25): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+     C:\source\repos\3-2_OpenCV\x64\Release\11_landmark.lib 라이브러리 및 C:\source\repos\3-2_OpenCV\x64\Release\11_landmark.exp 개체를 생성하고 있습니다.
+  코드를 생성하고 있습니다.
+  1 of 989 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  11_landmark.vcxproj -> C:\source\repos\3-2_OpenCV\x64\Release\11_landmark.exe

@@ -1,0 +1,21 @@
+﻿  소스.cpp
+C:\source\repos\3-2_OpenCV\13_inpaint\소스.cpp(13,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\source\repos\3-2_OpenCV\13_inpaint\소스.cpp(292,55): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\13_inpaint\소스.cpp(293,64): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\13_inpaint\소스.cpp(294,77): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\13_inpaint\소스.cpp(298,56): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\13_inpaint\소스.cpp(299,65): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\13_inpaint\소스.cpp(300,78): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\13_inpaint\소스.cpp(303,97): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\13_inpaint\소스.cpp(306,101): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\13_inpaint\소스.cpp(310,59): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\13_inpaint\소스.cpp(316,55): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\13_inpaint\소스.cpp(317,64): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\13_inpaint\소스.cpp(318,77): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\13_inpaint\소스.cpp(323,56): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\13_inpaint\소스.cpp(324,65): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\13_inpaint\소스.cpp(325,78): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\13_inpaint\소스.cpp(328,97): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\13_inpaint\소스.cpp(331,101): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\13_inpaint\소스.cpp(334,59): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  13_inpaint.vcxproj -> C:\source\repos\3-2_OpenCV\x64\Debug\13_inpaint.exe

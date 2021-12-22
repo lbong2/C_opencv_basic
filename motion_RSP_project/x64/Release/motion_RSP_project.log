@@ -1,0 +1,39 @@
+﻿  소스.cpp
+C:\source\repos\3-2_OpenCV\motion_RSP_project\LL.hpp(107,10): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\source\repos\3-2_OpenCV\motion_RSP_project\LL.hpp(107,10): warning C4313: 'printf': 서식 문자열의 '%s'이(가) 인수 1('int' 형식)과(와) 충돌합니다.
+C:\source\repos\3-2_OpenCV\motion_RSP_project\소스.cpp(9,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\source\repos\3-2_OpenCV\motion_RSP_project\소스.cpp(18,33): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+C:\source\repos\3-2_OpenCV\motion_RSP_project\소스.cpp(18,19): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+C:\source\repos\3-2_OpenCV\motion_RSP_project\소스.cpp(247,16): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\motion_RSP_project\소스.cpp(268,55): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\motion_RSP_project\소스.cpp(269,64): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\motion_RSP_project\소스.cpp(270,77): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\motion_RSP_project\소스.cpp(274,56): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\motion_RSP_project\소스.cpp(275,65): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\motion_RSP_project\소스.cpp(276,78): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\motion_RSP_project\소스.cpp(279,97): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\motion_RSP_project\소스.cpp(282,101): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\motion_RSP_project\소스.cpp(286,59): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\motion_RSP_project\소스.cpp(292,55): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\motion_RSP_project\소스.cpp(293,64): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\motion_RSP_project\소스.cpp(294,77): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\motion_RSP_project\소스.cpp(299,56): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\motion_RSP_project\소스.cpp(300,65): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\motion_RSP_project\소스.cpp(301,78): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\motion_RSP_project\소스.cpp(304,97): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\motion_RSP_project\소스.cpp(307,101): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\motion_RSP_project\소스.cpp(310,59): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+  1 of 132 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  motion_RSP_project.vcxproj -> C:\source\repos\3-2_OpenCV\x64\Release\motion_RSP_project.exe

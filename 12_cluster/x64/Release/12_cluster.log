@@ -1,0 +1,2 @@
+﻿소스.obj : error LNK2001: 확인할 수 없는 외부 기호 "struct cv::Ptr<class cv::ximgproc::SuperpixelLSC> __cdecl cv::ximgproc::createSuperpixelLSC(class cv::_InputArray const &,int,float)" (?createSuperpixelLSC@ximgproc@cv@@YA?AU?$Ptr@VSuperpixelLSC@ximgproc@cv@@@2@AEBV_InputArray@2@HM@Z)
+C:\source\repos\3-2_OpenCV\x64\Release\12_cluster.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.

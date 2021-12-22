@@ -1,0 +1,8 @@
+﻿  소스.cpp
+C:\source\repos\3-2_OpenCV\10_face_Verification\소스.cpp(128,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+소스.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl cv::imshow(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class cv::_InputArray const &)" (?imshow@cv@@YAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV_InputArray@1@@Z)
+소스.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl cv::cvtColor(class cv::_InputArray const &,class cv::_OutputArray const &,int,int)" (?cvtColor@cv@@YAXAEBV_InputArray@1@AEBV_OutputArray@1@HH@Z)
+소스.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl cv::rectangle(class cv::_InputOutputArray const &,class cv::Point_<int>,class cv::Point_<int>,class cv::Scalar_<double> const &,int,int,int)" (?rectangle@cv@@YAXAEBV_InputOutputArray@1@V?$Point_@H@1@1AEBV?$Scalar_@N@1@HHH@Z)
+소스.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __cdecl cv::CascadeClassifier::detectMultiScale(class cv::_InputArray const &,class std::vector<class cv::Rect_<int>,class std::allocator<class cv::Rect_<int> > > &,double,int,int,class cv::Size_<int>,class cv::Size_<int>)" (?detectMultiScale@CascadeClassifier@cv@@QEAAXAEBV_InputArray@2@AEAV?$vector@V?$Rect_@H@cv@@V?$allocator@V?$Rect_@H@cv@@@std@@@std@@NHHV?$Size_@H@2@2@Z)
+소스.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl cv::resize(class cv::_InputArray const &,class cv::_OutputArray const &,class cv::Size_<int>,double,double,int)" (?resize@cv@@YAXAEBV_InputArray@1@AEBV_OutputArray@1@V?$Size_@H@1@NNH@Z)
+C:\source\repos\3-2_OpenCV\x64\Release\10_face_Verification.exe : fatal error LNK1120: 5개의 확인할 수 없는 외부 참조입니다.

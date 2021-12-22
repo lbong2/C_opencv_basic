@@ -1,0 +1,30 @@
+﻿  소스.cpp
+C:\source\repos\3-2_OpenCV\Final_exam\소스.cpp(48,55): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\Final_exam\소스.cpp(49,64): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\Final_exam\소스.cpp(50,77): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\Final_exam\소스.cpp(54,56): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\Final_exam\소스.cpp(55,65): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\Final_exam\소스.cpp(56,78): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\Final_exam\소스.cpp(59,97): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\Final_exam\소스.cpp(62,101): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\Final_exam\소스.cpp(66,59): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\Final_exam\소스.cpp(72,55): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\Final_exam\소스.cpp(73,64): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\Final_exam\소스.cpp(74,77): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\Final_exam\소스.cpp(79,56): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\Final_exam\소스.cpp(80,65): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\Final_exam\소스.cpp(81,78): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\Final_exam\소스.cpp(84,97): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\Final_exam\소스.cpp(87,101): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\Final_exam\소스.cpp(90,59): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\Final_exam\소스.cpp(116,16): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\Final_exam\소스.cpp(396,14): warning C4244: 'return': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\Final_exam\소스.cpp(409,9): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\Final_exam\소스.cpp(410,9): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\source\repos\3-2_OpenCV\Final_exam\소스.cpp(445,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  코드를 생성하고 있습니다.
+  3 of 97 functions ( 3.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  Final_exam.vcxproj -> C:\source\repos\3-2_OpenCV\x64\Release\Final_exam.exe

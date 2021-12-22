@@ -1,0 +1,2 @@
+﻿  소스.cpp
+C:\source\repos\3-2_OpenCV\02_biLinear\소스.cpp(1,9): fatal error C1083: 포함 파일을 열 수 없습니다. 'opencv2/imgproc.hpp': No such file or directory
